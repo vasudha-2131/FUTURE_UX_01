@@ -7,7 +7,7 @@ A high-conversion, multi-page responsive website UI designed for a local dental 
 
 ## 🌐 Live Project Links
 
-* **Live Interactive Site:** [Click Here to View on Canva](platinumsmailes.my.canva.site)
+* **Live Interactive Site:** [Click Here to View on Canva](platinumsmiles.my.canva.site)
 ---
 
 ## 🎯 Task Objectives Achieved
